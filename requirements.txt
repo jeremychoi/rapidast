@@ -146,3 +146,5 @@ urllib3==2.3.0
     # via requests
 webcolors==24.11.1
     # via jsonschema
+selenium>=4.15.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
